@@ -7,7 +7,7 @@ On a real LAN, the game finds servers by broadcasting, and broadcasts don't cros
 **Tested:** GOG build 1.3.7.4, with a dedicated server in a Windows 10 VM and a remote Windows 11 client.
 **Steam 1.3.7:** untested. The address-alias and discovery parts don't depend on the exact build. The join-bug workaround checks the code bytes of the exe and switches itself off on any build it doesn't recognise. The log tells you which case applies.
 
-**Battlefront II (2005):** see the port, [Battlefront II (2005) – LAN play over Tailscale](https://github.com/afrowebster/Battlefront-II-2005-GoG-Steam-version-Tailscale-LAN).
+**Battlefront II (2005):** see the port, [Battlefront II (2005) 1.1 – LAN play over Tailscale](https://github.com/afrowebster/Battlefront-II-2005-1.1-GoG-Steam-version-Tailscale-LAN).
 
 ## Quick start
 
@@ -76,7 +76,7 @@ This needs Visual Studio 2022 Build Tools with the C++ workload. Run `build.bat`
 - the RFC 1918 assertion
 - the join socket race
 - ordinal imports and ASLR pitfalls
-- a plan for porting this to Battlefront II (2005). The finished port is [Battlefront-II-2005-GoG-Steam-version-Tailscale-LAN](https://github.com/afrowebster/Battlefront-II-2005-GoG-Steam-version-Tailscale-LAN).
+- a plan for porting this to Battlefront II (2005). The finished port is [Battlefront-II-2005-1.1-GoG-Steam-version-Tailscale-LAN](https://github.com/afrowebster/Battlefront-II-2005-1.1-GoG-Steam-version-Tailscale-LAN).
 
 `ghidra_scripts/` contains the headless Ghidra helpers used for the analysis.
 
