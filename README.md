@@ -78,6 +78,10 @@ This needs Visual Studio 2022 Build Tools with the C++ workload. Run `build.bat`
 
 `ghidra_scripts/` contains the headless Ghidra helpers used for the analysis.
 
+## License
+
+[MIT](LICENSE). This covers the code and documentation in this repository only. Star Wars Battlefront and its files remain the property of their respective owners, and none of them are included here.
+
 ## Disclaimer
 
 This is an unofficial fan project, not affiliated with Lucasfilm, Disney, Pandemic, Aspyr, GOG or Valve. It modifies the running game process in memory to change its networking behaviour. Use it at your own risk, and only with games you own.
