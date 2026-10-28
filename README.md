@@ -80,7 +80,9 @@ This needs Visual Studio 2022 Build Tools with the C++ workload. Run `build.bat`
 
 ## License
 
-[MIT](LICENSE). This covers the code and documentation in this repository only. Star Wars Battlefront and its files remain the property of their respective owners, and none of them are included here.
+Copyright (C) 2026 afrowebster
+
+Licensed under the [GNU General Public License v3.0](LICENSE). You may use, change and share this project, but if you distribute it, or a modified version, you must do so under the same licence and make the source code available. This covers the code and documentation in this repository only. Star Wars Battlefront and its files remain the property of their respective owners, and none of them are included here.
 
 ## Disclaimer
 
